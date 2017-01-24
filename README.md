@@ -1,7 +1,3 @@
-TAEK2
-Taek2 verkefni
-#h1 HELLO
-##h2 DARKNESS
-###h3 MY
-####h4 OlD
-#####h5 FRIEND
+TAEK2 Verkefni
+## 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er:
+#### RAM er skamstöfun fyrir Random Access Memory. Það er tölvuminni sem tekur jafn langan tíma að skrifa í eða lesa úr gögn óháð því hvaða minnisvistfang gögn eru sótt eða skrifuð í. Algengt er að nota hugtakið RAM um vinnsluminni, þar sem það er það RAM minni í tölvum sem almennir notendur þekkja helst til.
