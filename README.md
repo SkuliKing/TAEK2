@@ -5,3 +5,5 @@ TAEK2 Verkefni
 #### Lesminni/ROM er tölvuminni sem tölva getur einungis lesið. Tölva getur ekki skrifað gögn í lesminni heldur þarf til þess sérstakan búnað (sem getur þó verið jaðartæki tölvu). Dæmi um ROM minni eru CD, DVD og ROM kubbar. Segulbönd geta líka flokkast sem ROM.
 ## 3. Hvað er fyrirbyggjandi viðhald?
 ####Árleg skoðun og endurnýjun á ákveðnum slitflötum. Þá færðu vottorð um yfirferð frá þjónustuaðila og er einskonar
+## 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+####Electrostatic Discharge, með því að nota ESD-safe foam eða bag
