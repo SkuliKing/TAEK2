@@ -13,5 +13,6 @@ TAEK2 Verkefni
 ####Identify the problem,Establish a Theory og Probable Cause,Test the Theory to Determine Cause,Establish a Plan of Action to Resolve the Problem and Implement the solution,Verify Full System Funcionality and, If Applicable, Implement Preventive Measures and Document Findings,Actions,and Outcomes
 ##7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?Nefnið dæmi um báðar gerðir af spurningum.
 ####Close ended spurningar er svarað bara með einu svari en open ended þá þarftu að svara með meira ein einu svari. Close:Is he dead? Open:What makes the leaves change color?
-
+##8. Hvað eru jaðartæki?
+####Það eru tæki sem að eru ekki "essential" fyrir tölvur, eins og prentarar,usb og lyklaborð
 
