@@ -17,4 +17,11 @@ TAEK2 Verkefni
 ####Það eru tæki sem að eru ekki "essential" fyrir tölvur, eins og prentarar,usb og lyklaborð
 ##9. Nefndu þrjú dæmi um inntakstæki.
 ####Mús,lyklaborð og myndavél
-
+##10.tölva
+##Turn:Corsair Carbide 100R svartur turn verð:14.990
+##Aflgjafi:Thermaltake SMART SE 630 watta verð:15.900 keypt: tölvutækni
+##Móðurborð: Gigabyte H110M-S2H, LGA1151 Skylake, 2xDDR4, 4xSATA3 verð:14.900 keypt: tölvutækni
+##Örgjörvi:Intel Core i7-6700K 4.0GHz, LGA1151 Skylake, Quad-Core verð:44.900 keypt: tölvutækni
+##Vinnsluminni:Crucial 16GB kit (2x8GB) DDR4 2400MHz, CL16, PC4-19200 verð:14.900 keypt: tölvutækni
+##Harður Diskur:Crucial MX300 275GB M.2 Solid-State SATA 6.0Gb/s SSD verð 16.900 keypt: tölvutækni
+##Skjákort:Gigabyte GTX1070 G1 GAMING 8GB, DVI, HDMI & DisplayPort verð:79.900 keypt: tölvutækni
