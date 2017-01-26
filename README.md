@@ -9,3 +9,5 @@ TAEK2 Verkefni
 ####Electrostatic Discharge, með því að nota ESD-safe foam eða bag
 ## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 ####það sem þú þarft að gera þegar þú velur þér spennugjafa er að reikna heildarrafafl þörf fyrir þína byggja.
+##6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+####Identify the problem,Establish a Theory og Probable Cause,Test the Theory to Determine Cause,Establish a Plan of Action to Resolve the Problem and Implement the solution,Verify Full System Funcionality and, If Applicable, Implement Preventive Measures and Document Findings,Actions,and Outcomes
