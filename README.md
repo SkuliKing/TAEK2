@@ -7,3 +7,5 @@ TAEK2 Verkefni
 ####Árleg skoðun og endurnýjun á ákveðnum slitflötum. Þá færðu vottorð um yfirferð frá þjónustuaðila og er einskonar
 ## 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 ####Electrostatic Discharge, með því að nota ESD-safe foam eða bag
+## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
+####það sem þú þarft að gera þegar þú velur þér spennugjafa er að reikna heildarrafafl þörf fyrir þína byggja.
