@@ -15,4 +15,6 @@ TAEK2 Verkefni
 ####Close ended spurningar er svarað bara með einu svari en open ended þá þarftu að svara með meira ein einu svari. Close:Is he dead? Open:What makes the leaves change color?
 ##8. Hvað eru jaðartæki?
 ####Það eru tæki sem að eru ekki "essential" fyrir tölvur, eins og prentarar,usb og lyklaborð
+##9. Nefndu þrjú dæmi um inntakstæki.
+####Mús,lyklaborð og myndavél
 
